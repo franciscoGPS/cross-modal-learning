@@ -1,0 +1,11 @@
+client_secret.json
+*.wav
+*.mp3
+*.hdf5
+*.pickle
+*.csv
+*.png
+*.bin
+*.npy
+.s*
+__pycache__
