@@ -49,8 +49,8 @@ def main(argv):
 import make_table as table 
 
 PORT_NUMBER = 8080
-SPOTIPY_CLIENT_ID = 'c2100406ea754d2b87c9a5118d52efe8'
-SPOTIPY_CLIENT_SECRET = 'd653ca6c7c564a7f975103cbfc3e58e7'
+SPOTIPY_CLIENT_ID = 'YOUT_CLIENT_ID'
+SPOTIPY_CLIENT_SECRET = 'YOUR_CLIENT SECRET'
 SPOTIPY_REDIRECT_URI = 'http://localhost:8080/'
 SCOPE = 'user-library-read'
 CACHE = '.spotipyoauthcache'
